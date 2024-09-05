@@ -1,36 +1,36 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">──「 𝐒 𝐓 𝐎 𝐑 𝐌 🥀」──</p> 
+<p align="center">──「 𝐃 𝐀 𝐍 𝐆 𝐄 𝐑 🥀」──</p> 
     
 <h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓<h2>
 
 <p align="center">
-  <img src="https://graph.org/file/c3b279aee41f8bbe6466b.jpg">
+  <img src="[https://graph.org/file/c3b279aee41f8bbe6466b.jpg](https://telegra.ph//file/ba83465b3ebfc85e80beb.jpg)">
 </p>
 
 <p align="center">
-    <a href="https://github.com/KEX001/STORM-UB/commits/STORM-UB"><img src="https://img.shields.io/github/last-commit/KEX001/STORM-UB?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
-    <a href="https://github.com/KEX001/STORM-UB/actions/workflows/main.yml"><img src="https://img.shields.io/github/actions/workflow/status/KEX001/STORM-UB/CI/Geez-UserBot?style=for-the-badge&logo=github-actions&logoColor=aqua" alt="CI" /></a>
+    <a href="https://github.com/KEX001/STORM-UB/commits/STORM-UB"><img src="https://img.shields.io/github/last-commit/VIRATRAJPUT78/DANGER-UB?color=ff69b4&logo=github&logoColor=ff69b4&style=for-the-badge" /></a>
+    <a href="https://github.com/VIRATRAJPUT78/DANGER-UB/actions/workflows/main.yml"><img src="https://img.shields.io/github/actions/workflow/status/VIRATRAJPUT78/DANGER-UB/CI/Geez-UserBot?style=for-the-badge&logo=github-actions&logoColor=aqua" alt="CI" /></a>
     <a href="https://travis-ci.com/KEX001/UB.svg?branch=STORM-UB" /></a>
     <a href="https://github.com/KEX001/STORM-UB/issues"><img src="https://img.shields.io/github/issues/KEX001/STORM-UB?color=blue&logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/KEX001/STORM-UB"><img src="https://img.shields.io/github/repo-size/KEX001/STORM-UB?logo=github&style=for-the-badge" /></a>
     <a href="https://github.com/KEX001/STORM-UB/network/members"><img src="https://img.shields.io/github/forks/KEX001/STORM-UB?logo=github&style=for-the-badge" /></a>
     <a href="https://pypi.org/project/Pyrogram/"><img src="https://img.shields.io/pypi/v/Pyrogram?color=important&label=Pyrogram&logo=python&logoColor=brightgreen&style=for-the-badge" /></a>
     <img alt="PYTHON" src="https://img.shields.io/badge/PYTHON-v3.10.2-white?style=for-the-badge&logo=appveyor"/>
-    <a href="https://t.me/STORM_TECHH"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-    <a href="https://t.me/STORM_CHATZ"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://t.me/MASTIZONE0"><img src="https://img.shields.io/badge/Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+    <a href="https://t.me/X_WCG"><img src="https://img.shields.io/badge/Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
     
-<b> ᴠɪꜱɪᴛᴏʀꜱ <img src="https://github.com/KEX001/STORM-UB/blob/main/res/Z30J.gif" width="20px"></b><br>
+<b> ᴠɪꜱɪᴛᴏʀꜱ <img src="https://github.com/VIRATRAJPUT78/DANGER-UB/blob/main/res/Z30J.gif" width="20px"></b><br>
  
-![](https://count.getloli.com/get/@KEX001.github.STORM-UB)
+![](https://count.getloli.com/get/@VIRATRAJPUT78.github.DANGER-UB)
 </br>
 
 ## ʀᴇᴘᴏ ꜱᴛᴀᴛꜱ
 
 
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=KEX001&repo=STORM-UB\&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=VIRATRAJPUT78&repo=DANGER-UB\&theme=dark)
 
 ## ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
 
@@ -40,7 +40,7 @@
 
 ## ᴛᴇʟᴇɢʀᴀᴍ
 
-[![ᴄʜᴀᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/ᴄʜᴀᴛ%20ᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-blue.svg)](https://t.me/kexx_xd)
+[![ᴄʜᴀᴛ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ](https://img.shields.io/badge/ᴄʜᴀᴛ%20ᴏɴ-ᴛᴇʟᴇɢʀᴀᴍ-blue.svg)](https://t.me/X_WCG)
 
 [![Telegram](https://img.shields.io/badge/Telegram-groups-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBlbmFibGUtYmFja2dyb3VuZD0ibmV3IDAgMCAyNCAyNCIgaGVpZ2h0PSI1MTIiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjUxMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJtOS40MTcgMTUuMTgxLS4zOTcgNS41ODRjLjU2OCAwIC44MTQtLjI0NCAxLjEwOS0uNTM3bDIuNjYzLTIuNTQ1IDUuNTE4IDQuMDQxYzEuMDEyLjU2NCAxLjcyNS4yNjcgMS45OTgtLjkzMWwzLjYyMi0xNi45NzIuMDAxLS4wMDFjLjMyMS0xLjQ5Ni0uNTQxLTIuMDgxLTEuNTI3LTEuNzE0bC0yMS4yOSA4LjE1MWMtMS40NTMuNTY0LTEuNDMxIDEuMzc0LS4yNDcgMS43NDFsNS40NDMgMS42OTMgMTIuNjQzLTcuOTExYy41OTUtLjM5NCAxLjEzNi0uMTc2LjY5MS4yMTh6IiBmaWxsPSIjMDM5YmU1Ii8+PC9zdmc+)](https://t.me/NXETWORK/5)
 
@@ -82,7 +82,7 @@ _**» ᴛʜᴀɴᴋ ʏᴏᴜ ꜰᴏʀ ᴄʜᴏᴏꜱɪɴɢ ᴏᴜʀ ʙᴏᴛ. �
 
 ## ɴᴏᴛɪᴄᴇ
 
-_**ᴀᴛᴛᴇɴᴛɪᴏɴ: ᴛʜᴇ ᴘʀɪᴍᴇ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ꜱᴛᴏʀᴍ-ᴜʙ ɪɴᴄʟᴜᴅᴇꜱ ᴀ ꜱᴇʟꜰ-ᴅᴇꜱᴛʀᴜᴄᴛ ᴍᴏᴅᴇ. ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴘʏɪɴɢ ᴏʀ ᴜꜱᴇ ᴏꜰ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴍᴀʏ ᴀᴄᴛɪᴠᴀᴛᴇ ᴛʜɪꜱ ꜰᴇᴀᴛᴜʀᴇ, ʀᴇꜱᴜʟᴛɪɴɢ ɪɴ ᴛʜᴇ ᴘᴏᴛᴇɴᴛɪᴀʟ ʟᴏꜱꜱ ᴏꜰ ᴅᴀᴛᴀ ᴀɴᴅ ᴏᴛʜᴇʀ ꜱɪɢɴɪꜰɪᴄᴀɴᴛ ᴄᴏɴꜱᴇQᴜᴇɴᴄᴇꜱ.**_
+_**ᴀᴛᴛᴇɴᴛɪᴏɴ: ᴛʜᴇ ᴘʀɪᴍᴇ ᴠᴇʀꜱɪᴏɴ ᴏꜰ ᴅᴀɴɢᴇʀ-ᴜʙ ɪɴᴄʟᴜᴅᴇꜱ ᴀ ꜱᴇʟꜰ-ᴅᴇꜱᴛʀᴜᴄᴛ ᴍᴏᴅᴇ. ᴜɴᴀᴜᴛʜᴏʀɪᴢᴇᴅ ᴄᴏᴘʏɪɴɢ ᴏʀ ᴜꜱᴇ ᴏꜰ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ ᴍᴀʏ ᴀᴄᴛɪᴠᴀᴛᴇ ᴛʜɪꜱ ꜰᴇᴀᴛᴜʀᴇ, ʀᴇꜱᴜʟᴛɪɴɢ ɪɴ ᴛʜᴇ ᴘᴏᴛᴇɴᴛɪᴀʟ ʟᴏꜱꜱ ᴏꜰ ᴅᴀᴛᴀ ᴀɴᴅ ᴏᴛʜᴇʀ ꜱɪɢɴɪꜰɪᴄᴀɴᴛ ᴄᴏɴꜱᴇQᴜᴇɴᴄᴇꜱ.**_
 
 _**ʙᴇ ᴄᴀᴜᴛɪᴏᴜꜱ: ᴇɴꜱᴜʀᴇ ʏᴏᴜ ʜᴀᴠᴇ ᴘʀᴏᴘᴇʀ ᴀᴜᴛʜᴏʀɪᴢᴀᴛɪᴏɴ ᴀɴᴅ ᴜɴᴅᴇʀꜱᴛᴀɴᴅ ᴛʜᴇ ɪᴍᴘʟɪᴄᴀᴛɪᴏɴꜱ ʙᴇꜰᴏʀᴇ ᴍᴏᴅɪꜰʏɪɴɢ ᴛʜᴇ ᴄᴏᴅᴇ.**_
 
@@ -94,14 +94,14 @@ _**ꜰᴏʀ ᴀɴʏ ɪɴQᴜɪʀɪᴇꜱ ᴏʀ ᴘᴇʀᴍɪꜱꜱɪᴏɴꜱ, �
 
 ## ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
 
-<h2> <img src="https://github.com/KEX001/STORM-UB/blob/main/res/cat_gif.gif" width="90px"> KEX 🌿 <img src = "https://github.com/KEX001/STORM-UB/blob/main/res/cat1.gif" width="90px"> </h1>
+<h2> <img src="https://github.com/VIRATRAJPUT78/DANGER-UB/blob/main/res/cat_gif.gif" width="90px"> KEX 🌿 <img src = "https://github.com/VIRATRAJPUT78/DANGER-UB/blob/main/res/cat1.gif" width="90px"> </h1>
 
-[**KEX**](https://t.me/kexx_xd) 🌿
+[**𝐓𝐆-𝐆𝐑𝐏**](https://t.me/X_WCG) 🌿
 
 ## ᴄʀᴇᴅɪᴛs
 
-<a href="https://github.com/KEX001/STORM-UB/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=KEX001/STORM-UB" />
+<a href="https://github.com/VIRATRAJPUT78/DANGER-UB/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=VIRATRAJPUT78/DANGER-UB" />
 </a
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
