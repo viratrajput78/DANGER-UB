@@ -2,7 +2,7 @@
 
 <p align="center">──「 𝐃 𝐀 𝐍 𝐆 𝐄 𝐑 🥀」──</p> 
     
-<h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓<h2>
+<h2 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 𝐃𝐀𝐍𝐆𝐄𝐑-𝐙𝐎𝐍𝐄 𝐔𝐒𝐄𝐑-𝐁𝐎𝐓<h2>
 
 <p align="center">
   <img src="[https://graph.org/file/c3b279aee41f8bbe6466b.jpg](https://telegra.ph//file/ba83465b3ebfc85e80beb.jpg)">
@@ -90,7 +90,7 @@ _**ꜰᴏʀ ᴀɴʏ ɪɴQᴜɪʀɪᴇꜱ ᴏʀ ᴘᴇʀᴍɪꜱꜱɪᴏɴꜱ, �
 
 ## ʟɪᴄᴇɴᴄᴇ 
 
-[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://github.com/KEX001/STORM-UB/blob/main/LICENSE) 
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](https://github.com/VIRATRAJPUT78/DANGER-UB/blob/main/LICENSE) 
 
 ## ᴏᴡɴᴇʀ ᴏꜰ ᴛʜɪꜱ ʀᴇᴘᴏꜱɪᴛᴏʀʏ
 
