@@ -10,7 +10,7 @@ _stormbot_zip () {
 }
 
 _starter () {
-    echo "ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ [ᴘʀɪᴍᴇ ᴠᴇʀꜱɪᴏɴ ᴠ2.1.1]"
+    echo "ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ᴅᴀɴɢᴇʀ ᴜꜱᴇʀʙᴏᴛ [ᴘʀɪᴍᴇ ᴠᴇʀꜱɪᴏɴ ᴠ2.1.1]"
     stormpath="Plugins.zip"
 
     wget -q $(_stormbot_zip) -O "$stormpath"
@@ -20,7 +20,7 @@ _starter () {
     cd $STORMPATH
     python3 ../updater.py ../requirements.txt requirements.txt
 
-    echo "ꜱᴛᴀʀᴛɪɴɢ ꜱᴛᴏʀᴍ ᴜꜱᴇʀʙᴏᴛ [ᴘʀɪᴍᴇ ᴠᴇʀꜱɪᴏɴ ᴠ2.1.1]"
+    echo "ꜱᴛᴀʀᴛɪɴɢ ᴅᴀɴɢᴇʀ ᴜꜱᴇʀʙᴏᴛ [ᴘʀɪᴍᴇ ᴠᴇʀꜱɪᴏɴ ᴠ2.1.1]"
     chmod 777 start.sh
     ./start.sh
 }
